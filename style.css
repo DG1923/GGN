@@ -1,0 +1,30 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Faustina:wght@300&family=Nunito:wght@300&display=swap');
+body{
+    font-family: 'Faustina', serif;
+    font-family: 'Nunito', sans-serif;
+}
+nav{
+    display: flex;
+    height: 40px;
+    justify-content: space-evenly;
+    margin:20px;
+}
+.nav-icon{
+    display: flex;
+    gap:10px;
+}
+.logo img{
+    height: 40px !important;
+}
+img{
+    height: 20px;
+}
+p{
+    margin:0!important
+}
+.card_icon{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
